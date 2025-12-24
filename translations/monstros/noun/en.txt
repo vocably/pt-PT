@@ -1,0 +1,5 @@
+monsters
+brutes
+fiends
+freaks
+giants

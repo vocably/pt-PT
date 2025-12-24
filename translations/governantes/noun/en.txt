@@ -1,0 +1,5 @@
+rulers
+governors
+leaders
+officials
+statesmen

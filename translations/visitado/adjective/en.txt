@@ -1,0 +1,6 @@
+visited
+frequented
+inspected
+examined
+checked
+toured

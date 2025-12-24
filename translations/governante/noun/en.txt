@@ -1,0 +1,7 @@
+ruler
+governor
+leader
+head
+administrator
+manager
+housekeeper
