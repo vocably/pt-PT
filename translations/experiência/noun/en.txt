@@ -1,0 +1,4 @@
+experience
+experiment
+trial
+occurrence

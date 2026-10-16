@@ -1,0 +1,4 @@
+chicken
+hen
+coward
+fool
